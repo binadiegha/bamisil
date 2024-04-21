@@ -30,33 +30,6 @@ function ResolveSiteData() {
 
 // handle nested links
 
-const links = document.querySelectorAll('a');
-
-links.forEach( link => {
-    link.addEventListener('click', (event)=> {
-        event.preventDefault()
-
-       setTimeout(()=> {
-           console.log(event)
-           console.log(window)
-           const path = window.location.pathname;
-           const splits = path.split('/').filter( section => section !== "");
-
-           const pool = event.target.baseURI.split('/');
-           // const targ = pool[pool.length - 1]
-           const targ = event.target.innerHTML.toLowerCase()+".html";
-
-           console.log({targ})
-
-           window.location.pathname = splits[0]+"/"+targ
-
-           console.log(event.target.href)
-           console.log(window.location.pathname, splits)
-           // window.location.href = "https://google.com"
-           // event.defaultPrevented = false;
-       }, 1000)
-    })
-})
 
 
 ResolveSiteData()
