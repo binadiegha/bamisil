@@ -63,8 +63,8 @@ $('body').prepend(`
                                 </li>
                                 <li class="menu-item "><a href="products/">Products</a></li>  
                               
-                            <li class="menu-item"><a href="careers.html" class="active">Careers</a></li>
-                            <li class="menu-item"><a href="contact.html" class="active">Contact</a></li>
+                            <li class="menu-item"><a href="/careers.html" class="active">Careers</a></li>
+                            <li class="menu-item"><a href="/contact.html" class="active">Contact</a></li>
                             </ul>
                         </nav>
                         <!--=== Navbar Menu Button ===-->
