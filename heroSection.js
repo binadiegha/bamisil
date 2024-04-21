@@ -15,7 +15,7 @@ function HeroSection(){
                                         Organic Farms</h1>
                                     <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
                                         <a href="about-old.html" class="main-btn btn-yellow">Learn About Us</a>
-                                        <a href="portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
+                                        <a href="products/portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@ function HeroSection(){
                                         Organic Farms</h1>
                                     <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
                                         <a href="about-old.html" class="main-btn btn-yellow">Learn About Us</a>
-                                        <a href="portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
+                                        <a href="products/portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ function HeroSection(){
                                         Testy Foods</h1>
                                     <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
                                         <a href="about-old.html" class="main-btn btn-yellow">Learn About Us</a>
-                                        <a href="portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
+                                        <a href="products/portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
                                     </div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ function HeroSection(){
                                         Organic Farms</h1>
                                     <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
                                         <a href="about-old.html" class="main-btn btn-yellow">Learn About Us</a>
-                                        <a href="portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
+                                        <a href="products/portfolio-grid.html" class="main-btn bordered-btn bordered-white">Latest Project</a>
                                     </div>
                                 </div>
                             </div>

@@ -55,21 +55,13 @@ $('body').prepend(`
                             <ul>
                                 <li class="menu-item"><a href="index.html" class="active">Home</a></li>
                                 <li><a href="about.html">About</a></li>
-                                <li class="menu-item has-children"><a href="#">Services</a>
+                                <li class="menu-item has-children"><a href="">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="upstream-business.html">Upstream Business</a></li>
                                         <li><a href="downstream-business.html">Downstream Business</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item "><a href="#">Products</a></li>  
-<!--                                <li class="menu-item has-children"><a href="#">Products</a>-->
-<!--                                    <ul class="sub-menu">-->
-<!--                                        <li><a href="portfolio-grid.html">Portfolio Grid</a></li>-->
-<!--                                        <li><a href="portfolio-full-width.html">Portfolio Full Width</a></li>-->
-<!--                                        <li><a href="portfolio-details.html">Portfolio Details</a></li>-->
-<!--                                    </ul>-->
-<!--                                </li>-->
-                                
+                                <li class="menu-item "><a href="products/">Products</a></li>  
                               
                             <li class="menu-item"><a href="careers.html" class="active">Careers</a></li>
                             <li class="menu-item"><a href="contact.html" class="active">Contact</a></li>

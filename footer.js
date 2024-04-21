@@ -147,6 +147,7 @@ function Footer(){
             </div>
         </footer><!--====== End Footer ======-->
         <script type="module" src="site-data-resolver.js"></script>
+        <script type="module" src="../site-data-resolver.js"></script>
 `)
     })
 }
