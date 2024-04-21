@@ -6533,7 +6533,8 @@ button {
 }
 
 .contact-three .contact-three_content-box {
-  margin-top: -550px;
+  margin-top: -100%;
+  /*margin-top: -550px;*/
 }
 
 .contact-three_content-box {
@@ -6637,7 +6638,7 @@ button {
   }
 }
 .contact-information-one .information-img_one img {
-  border-radius: 0px 262.58px 262.58px 262.58px;
+  /*border-radius: 0px 262.58px 262.58px 262.58px;*/
 }
 
 .contact-one_information-box {

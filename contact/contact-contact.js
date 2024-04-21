@@ -2,16 +2,14 @@ function ContactContact(){
     $('body').append(`
             <!--====== Start Contact Information section ======-->
         <section class="contact-information-one p-r z-1 pt-215 pb-130">
-            <div class="information-img_one wow fadeInRight"><img src="assets/images/contact/img-1.jpg" alt="Imaged"></div>
+            <div class="information-img_one wow fadeInRight"><img src="../assets/images/contact/img-1.jpg" alt="Imaged"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 col-lg-12">
                         <div class="contact-two_information-box">
                             <div class="section-title section-title-left mb-50 wow fadeInUp">
               
-                                <h2>We’re Ready to Help 
-                                    You! Need Any Foods or
-                                    Consultations ?</h2>
+                                <h2>Our Culture At Bamisil</h2>
                             </div>
                             <div class="row">
                                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -34,7 +32,7 @@ function ContactContact(){
                                         <div class="info">
                                             <h5>Email Address</h5>
                                             <p><a class="b-email"><span class="__cf_email__ b-email-span" >[email&#160;protected]</span></a></p>
-                                            <p><a href="../../cdn-cgi/l/email-protection.html#f5828282db9c9b939adb9b9081">www.bamisil.com</a></p>
+                                            <p><a href="../index.html">www.bamisil.com</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -53,8 +51,7 @@ function ContactContact(){
                             </div>
                             <div class="row">
                                 <div class="col-lg-8">
-                                    <p>Natus error sit voluptatem accusantium doloremque laudatium, totam rem 
-                                        aperiam eaque ipsa quae abllo inventore veritatis et quase</p>
+                                    <p>From the moment you join us, you become an integral part of the A-Bamisil family. Our culture is built on the foundation of mutual respect, innovation, and teamwork. We believe in creating an inclusive atmosphere where every voice is heard, ideas are shared freely, and success is celebrated together. At A-Bamisil, you'll find a community that values your contributions and supports your growth every step of the way.</p>
                                 </div>
                             </div>
                         </div>

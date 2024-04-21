@@ -1,70 +1,45 @@
 function ContactSection(){
     $('body').append(`
-        
         <!--====== Start Contact Section ======-->
-        <section class="contact-one p-r z-2">
-            <div class="container-fluid">
-                <div class="row no-gutters">
-                    <div class="col-lg-6">
-                        <div class="contact-one_content-box wow fadeInLeft">
+        <section class="contact-one p-r z-2 contact-one-main-reset " style=" box-shadow: none;">
+            <div class="container-fluid" style="padding: 0;">
+                <div class="row no-gutters"  style="box-shadow:none;">
+                    <div class="col-lg-6" >
+                        <div class="contact-one_content-box wow fadeInLeft" style="box-shadow:none;">
                             <div class="contact-wrapper">
                                 <div class="section-title section-title-left mb-40">
-                                    <span class="sub-title">Get In Touch</span>
-                                    <h2>Need Oragnic Foods!
-                                        Send Us Message</h2>
+                        
+                                    <h2>Join Us Today</h2>
                                 </div>
                                 <div class="contact-form">
-                                    <form>
-                                        <div class="form_group">
-                                            <input type="text" class="form_control" placeholder="Full Name" name="name" required>
+                                  <p class="mb-40">From the moment you join us, you become an integral part of the A-Bamisil family. Our culture is built on the foundation of mutual respect, innovation, and teamwork. We believe in creating an inclusive atmosphere where every voice is heard, ideas are shared freely, and success is celebrated together. At A-Bamisil, you'll find a community that values your contributions and supports your growth every step of the way.</p>
+<!--                                    <form>-->
+<!--                                        <div class="form_group">-->
+<!--                                            <input type="text" class="form_control" placeholder="Full Name" name="name" required>-->
+<!--                                        </div>-->
+<!--                                        <div class="form_group">-->
+<!--                                            <input type="email" class="form_control" placeholder="Email Address" name="email" required>-->
+<!--                                        </div>-->
+<!--                                        <div class="form_group">-->
+<!--                                            <textarea class="form_control" placeholder="Write Message" name="message"></textarea>-->
+<!--                                        </div>-->
+<!--                                        -->
+<!--                                          <div class="form_group">-->
+<!--                                            <button class="main-btn yellow-bg">Send Your CV</button>-->
+<!--                                        </div>-->
+<!--                                       -->
+<!--                                    </form>-->
+
+                                        <div class="">
+                                            <button class="main-btn yellow-bg">Send Your CV</button>
                                         </div>
-                                        <div class="form_group">
-                                            <input type="email" class="form_control" placeholder="Email Address" name="email" required>
-                                        </div>
-                                        <div class="form_group">
-                                            <textarea class="form_control" placeholder="Write Message" name="message"></textarea>
-                                        </div>
-                                        <div class="form_group">
-                                            <button class="main-btn yellow-bg">Send Us Message</button>
-                                        </div>
-                                    </form>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="contact-one_information-box bg_cover wow fadeInRight" style="background-image: url(assets/images/bg/contact-bg-1.jpg);">
-                            <div class="information-box">
-                                <h3>Contact Us</h3>
-                                <p>Sit volupta accusantium doloreues laudatiuec totam rem aperiam eaque abillo inventore verit atiset</p>
-                                <div class="information-item_one d-flex mb-25">
-                                    <div class="icon">
-                                        <i class="flaticon-placeholder"></i>
-                                    </div>
-                                    <div class="info">
-                                        <span class="sub-title mb-1">Location</span>
-                                        <h5>55 Main Street, New York</h5>
-                                    </div>
-                                </div>
-                                <div class="information-item_one d-flex mb-25">
-                                    <div class="icon">
-                                        <i class="flaticon-email"></i>
-                                    </div>
-                                    <div class="info">
-                                        <span class="sub-title mb-1">Email Address</span>
-                                        <h5><a href="../../cdn-cgi/l/email-protection.html#9ef6f1eaf2f7f0fbdef9f3fff7f2b0fdf1f3"><span class="__cf_email__" data-cfemail="ed85829981848388ad8a808c8481c38e8280">[email&#160;protected]</span></a></h5>
-                                    </div>
-                                </div>
-                                <div class="information-item_one d-flex mb-25">
-                                    <div class="icon">
-                                        <i class="flaticon-phone-call"></i>
-                                    </div>
-                                    <div class="info">
-                                        <span class="sub-title mb-1">Phone Number</span>
-                                        <h5><a href="tel:+0123456789">+012(345) 67 89</a></h5>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="contact-one_information-box bg_cover wow fadeInRight contact-one-reset" style="background-image: url(assets/images/bg/contact-bg-1.jpg); height: 100%;">
+                            
                         </div>
                     </div>
                 </div>
