@@ -38,13 +38,13 @@ $('body').prepend(`
         <div class="container-fluid">
             <div class="primary-menu">
                 <div class="site-branding">
-                    <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-1.png" alt="Site Logo"></a>
+                    <a href="../index.html" class="brand-logo"><img src="../assets/images/logo/logo-1.png" alt="Site Logo"></a>
                 </div>
                 <div class="nav-inner-menu">
                     <div class="nav-menu">
                         <!--=== Mobile Logo ===-->
                         <div class="mobile-logo mb-30 d-block d-xl-none text-center">
-                            <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-1.png" alt="Site Logo"></a>
+                            <a href="../index.html" class="brand-logo"><img src="../assets/images/logo/logo-1.png" alt="Site Logo"></a>
                         </div>
                         <!--=== Navbar Call Button ===-->
                         <div class="call-button text-center">
@@ -53,23 +53,23 @@ $('body').prepend(`
                         <!--=== Main Menu ===-->
                         <nav class="main-menu">
                             <ul>
-                                <li class="menu-item"><a href="index.html" class="active">Home</a></li>
-                                <li><a href="about.html">About</a></li>
+                                <li class="menu-item"><a href="../index.html" class="active">Home</a></li>
+                                <li><a href="../about.html">About</a></li>
                                 <li class="menu-item has-children"><a href="">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="upstream-business.html">Upstream Business</a></li>
-                                        <li><a href="downstream-business.html">Downstream Business</a></li>
+                                        <li><a href="../upstream-business.html">Upstream Business</a></li>
+                                        <li><a href="../downstream-business.html">Downstream Business</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item "><a href="products/">Products</a></li>  
+                                <li class="menu-item "><a href="index.html">Products</a></li>  
                               
-                            <li class="menu-item"><a href="careers.html" class="active">Careers</a></li>
-                            <li class="menu-item"><a href="contact.html" class="active">Contact</a></li>
+                            <li class="menu-item"><a href="../careers.html">Careers</a></li>
+                            <li class="menu-item"><a href="../contact.html">Contact</a></li>
                             </ul>
                         </nav>
                         <!--=== Navbar Menu Button ===-->
                         <div class="menu-button">
-                            <a href="contact.html" class="main-btn btn-yellow">Get a Quote</a>
+                            <a href="../contact.html" class="main-btn btn-yellow">Get a Quote</a>
                         </div>
                     </div>
                     <!--=== nav Right Item ===-->
@@ -78,7 +78,7 @@ $('body').prepend(`
                             <span><i class="far fa-phone"></i><a href="tel:+012(345)678" class="b-phone">+012 (345) 678</a></span>
                         </div>
                         <div class="menu-button">
-                            <a href="contact.html" class="main-btn btn-yellow">Get a Quote</a>
+                            <a href="../contact.html" class="main-btn btn-yellow">Get a Quote</a>
                         </div>
                         <div class="navbar-toggler">
                             <span></span>

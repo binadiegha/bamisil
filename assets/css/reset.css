@@ -5,3 +5,15 @@
 .contact-one-main-reset{
     margin-top: 0;
 }
+
+.override-image-holder{
+    width: 100% !important;
+    max-height: 650px;
+    overflow: hidden;
+}
+
+.override-image-holder img{
+    width: 100%;
+    object-fit: cover;
+
+}
