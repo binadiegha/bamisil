@@ -85,32 +85,19 @@ function ProductDetail(){
                             </div>
                             <div class="post-navigation border-top-1 pt-80">
                                 <div class="row align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="post-navigation-item prev-navigation d-flex align-items-center">
-                                            <div class="thumb">
-                                                <img src="../assets/images/portfolio/prev-nav.jpg" alt="">
-                                            </div>
-                                            <div class="text">
-                                                <h4><a href="../portfolio-details.html">Organic Vegetables</a></h4>
-                                                <p><a href="#">Food</a>, <a href="#">Organic</a></p>
-                                            </div>
-                                        </div>
+                                
+                                    <div class="col-lg-5" id="prev-product">
+<!--                                       prev product goes here-->
                                     </div>
+                                    
                                     <div class="col-lg-2">
                                         <div class="post-navigation-icon text-center">
                                             <img src="../assets/images/bar.png" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-lg-5">
-                                        <div class="post-navigation-item next-navigation d-flex align-items-center">
-                                            <div class="thumb">
-                                                <img src="../assets/images/portfolio/next-nav.jpg" alt="">
-                                            </div>
-                                            <div class="text">
-                                                <h4><a href="../portfolio-details.html">Organic Cows</a></h4>
-                                                <p><a href="#">Food</a>, <a href="#">Organic</a></p>
-                                            </div>
-                                        </div>
+                                    
+                                    <div class="col-lg-5" id="next-product">
+<!--                                       next product goes here-->
                                     </div>
                                 </div>
                             </div>
@@ -121,6 +108,7 @@ function ProductDetail(){
         </section><!--====== End Portfolio Details ======-->
     `)
 
+   //  show benefits
    data.why.forEach(item => {
        $('#why-list').append(`
         <div class="single-choose-item mb-30">
@@ -131,6 +119,43 @@ function ProductDetail(){
         </div>
     `)
    })
+
+//   show next product
+    const currIndex = myKeys.indexOf(product);
+    const [prevIndex, nextIndex] = [currIndex - 1, currIndex + 1];
+
+    console.log(prevIndex, nextIndex, currIndex)
+    if(prevIndex > -1) {
+        const prd = products[myKeys[prevIndex]]
+        $('#prev-product').append(`
+             <div class="post-navigation-item prev-navigation d-flex align-items-center">
+                <div class="thumb">
+                    <img src="${prd?.photo}" alt="" style="height: 100%; object-fit: cover;">
+                </div>
+                <div class="text">
+                    <h4><a href="product-detail.html?product=${prd?.title}">${prd?.title}</a></h4>
+                    <p><a href="#">Palm</a>, <a href="#">Produce</a></p>
+                </div>
+            </div>
+        `)
+    }
+
+//     show next product
+    if(nextIndex < myKeys.length) {
+        const prd = products[myKeys[nextIndex]]
+        $('#next-product').append(`
+             <div class="post-navigation-item next-navigation d-flex align-items-center">
+                <div class="thumb" style="">
+                    <img src="${prd?.photo}" alt="" style="height: 100%; object-fit: cover;">
+                </div>
+                <div class="text">
+                    <h4><a href="product-detail.html?product=${prd?.title}">${prd?.title}</a></h4>
+                    <p><a href="#">Palm</a>, <a href="#">Produce</a></p>
+                </div>
+            </div>
+        `)
+    }
+//     end of code
 }
 
 
