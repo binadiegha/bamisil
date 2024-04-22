@@ -15,12 +15,12 @@ $('body').prepend(`
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12 col-md-12 col-6">
                     <div class="top-bar-left d-flex align-items-center">
-                        <span class="text">Welcome to Agriculture & Organic Food Template</span>
+                          <span class="text">Welcome to A-Bamisil Farms</span>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-12 col-md-12 col-6">
                     <div class="top-bar-right">
-                        <span class="text"><i class="far fa-clock"></i>Opening Hours : Sunday- Friday, 08:00 am - 05:00pm</span>
+                        <span class="text"><i class="far fa-clock"></i>Opening Hours : Mon - Sun, 08:00 am - 05:00pm</span>
                         <ul class="social-link">
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -77,7 +77,7 @@ $('body').prepend(`
                             <span><i class="far fa-phone"></i><a href="tel:+012(345)678" class="b-phone">+012 (345) 678</a></span>
                         </div>
                         <div class="menu-button">
-                            <a href="contact.html" class="main-btn btn-yellow">Get a Quote</a>
+                            <a href="contact.html" class="main-btn btn-yellow">Reach us</a>
                         </div>
                         <div class="navbar-toggler">
                             <span></span>
