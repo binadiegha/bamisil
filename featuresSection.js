@@ -15,7 +15,7 @@ function FeaturesSection(){
                                 <div class="text">
                                     <h5>Modern Agriculture
                                         Equipment</h5>
-                                    <p>Sit amet consectetur adipiscing elit sed eiusmod tempor</p>
+                                    <p>Utilizing state-of-the-art tools for efficient and sustainable agricultural practices</p>
                                 </div>
                             </div>
                         </div>
@@ -26,9 +26,9 @@ function FeaturesSection(){
                                     <i class="flaticon-agriculture"></i>
                                 </div>
                                 <div class="text">
-                                    <h5>Organic and Fresh
-                                        Harvest of Wheat</h5>
-                                    <p>Sit amet consectetur adipiscing elit sed eiusmod tempor</p>
+                                    <h5>Organic
+                                        Harvest of Palm Produce</h5>
+                                    <p>Organic palm produce and Sustainable harvest for a healthier future ahead.</p>
                                 </div>
                             </div>
                         </div>
@@ -39,9 +39,9 @@ function FeaturesSection(){
                                     <i class="flaticon-social-care"></i>
                                 </div>
                                 <div class="text">
-                                    <h5>Lot’s Of Professional &
+                                    <h5>Professional &
                                         Expert Farmers</h5>
-                                    <p>Sit amet consectetur adipiscing elit sed eiusmod tempor</p>
+                                    <p>Skilled Farmers and Professionals with Expertise in Sustainable Agricultural Practices.</p>
                                 </div>
                             </div>
                         </div>

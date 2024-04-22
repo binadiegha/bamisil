@@ -15,35 +15,31 @@ function WhyChooseUsSection(){
                     <div class="col-lg-6">
                         <div class="choose-one_content-box pl-lg-70 mb-40">
                             <div class="section-title section-title-left mb-40 wow fadeInDown">
-                                <span class="sub-title">Why Choose Us</span>
-                                <h2>Trusted Organice Food
-                                    Providing Company</h2>
+                          
+                                <h2>Our Focus, Our Confidence.</h2>
                             </div>
                             <div class="choose-item-list wow fadeInUp">
                                 <div class="single-choose-item mb-30">
                                     <div class="text">
-                                        <h5>100% Natural Foods</h5>
-                                        <p>Accusantium doloremque laudatium, totam rem aperiam
-                                            inventore veritatis et quasi architecto beatae </p>
+                                        <h5>The Vision</h5>
+                                        <p>Leading agro-based company in oil palm industry, offering solutions and creating value across the value chain.</p>
                                     </div>
                                 </div>
                                 <div class="single-choose-item mb-30">
                                     <div class="text">
-                                        <h5>Modern Euipments</h5>
-                                        <p>Accusantium doloremque laudatium, totam rem aperiam
-                                            inventore veritatis et quasi architecto beatae </p>
+                                        <h5>Our Mission</h5>
+                                        <p>Maximize the potential of palm oil plantation and waste to value products, integrating operations for efficiency. </p>
                                     </div>
                                 </div>
                                 <div class="single-choose-item mb-30">
                                     <div class="text">
-                                        <h5>World Class Meats & Eggs</h5>
-                                        <p>Accusantium doloremque laudatium, totam rem aperiam
-                                            inventore veritatis et quasi architecto beatae </p>
+                                        <h5>Our Goals</h5>
+                                        <p>Become an integrated company leveraging palm oil resources for sustainable development and profitability. </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="choose-button wow fadeInUp">
-                                <a href="about-old.html" class="main-btn bordered-btn bordered-yellow">Learn About Us</a>
+                                <a href="about.html" class="main-btn bordered-btn bordered-yellow">Learn About Us</a>
                             </div>
                         </div>
                     </div>

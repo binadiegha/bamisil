@@ -4,8 +4,7 @@ $('body').prepend(`
     <!--====== Start Preloader ======-->
 <div class="preloader">
     <div class="loader">
-        <div class="pre-shadow"></div>
-        <div class="pre-box"></div>
+        <div class="loader-circle"></div>
     </div>
 </div>
 <!--====== End Preloader ======-->

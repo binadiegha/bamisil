@@ -2,11 +2,11 @@ function AboutAlt(){
     $('body').append(`<!--====== Start About Section ======-->
         <section class="about-section p-r z-1 pt-170 pb-80">
             <div class="container">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-content-box content-box-gap mb-50">
                             <div class="section-title section-title-left wow fadeInUp mb-30">
-                                <span class="sub-title">About Us</span>
+                           
                                 <h2>Who We Are </h2>
                             </div>
                             <p>A-Bamisil International Limited (“A-Bamisil”) is an Agro-based company incorporated with the vision to amongst others serve as an enabler for food security, poverty eradication, and job creation through oil palm plantation and processing.
@@ -19,8 +19,8 @@ We are staunch advocates of Good Agricultural Practices (GAP) and have integrate
                     </div>
                     <div class="col-lg-6">
                         <div class="about-four_image-box text-right p-r mb-50 wow fadeInRight">
-                            <img src="../assets/images/about/4.jpg" class="about-img_one" alt="">
-                            <img src="../assets/images/about/5.jpg" class="about-img_two" alt="">
+                            <img src="../assets/images/about/tractor.jpg" class="about-img_one" alt="">
+<!--                            <img src="../assets/images/about/5.jpg" class="about-img_two" alt="">-->
                         </div>
                     </div>
                 </div>

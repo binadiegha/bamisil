@@ -6,7 +6,7 @@ function MissionAndVision(){
                 
                      <div class="col-lg-6 align-items-start" style="display: flex; justify-content: flex-start;">
                         <div class="about-four_image-box text-right p-r mb-50 wow fadeInRight align-self-center">
-                            <img src="../assets/images/about/4.jpg" class="about-img_one" alt="">
+                            <img src="../assets/images/about/downstream2.jpg" class="about-img_one" alt="">
 <!--                            <img src="assets/images/about/5.jpg" class="about-img_two" alt="">-->
                         </div>
                     </div>

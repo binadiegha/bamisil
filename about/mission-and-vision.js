@@ -27,73 +27,7 @@ Our vision is to evolve into a fully integrated enterprise that optimizes every 
                     </div>
                 </div>
                 
-                <div class="row">
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInUp">
-                            <div class="icon">
-                                <i class="flaticon-wheat-sack"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Fresh Wheat
-                                    Sack Food</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInDown">
-                            <div class="icon">
-                                <i class="flaticon-healthy-food"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Organic Fresh
-                                    Fruits</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInUp">
-                            <div class="icon">
-                                <i class="flaticon-agriculture"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Bulk Production</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInDown">
-                            <div class="icon">
-                                <i class="flaticon-fish"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Fresh Pond &
-                                    Sea Fish</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInUp">
-                            <div class="icon">
-                                <i class="flaticon-healthy-food"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Fresh Organic 
-                                    Vegetable</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12">
-                        <div class="service-box text-center mb-70 wow fadeInDown">
-                            <div class="icon">
-                                <i class="flaticon-planet-earth"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="../service-details.html">Planet Earth
-                                    Safety</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </section>
         <!--====== End Service Section ======-->

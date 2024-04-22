@@ -15,7 +15,7 @@ function AboutAlt(){
                     </div>
                     <div class="col-lg-6">
                         <div class="about-four_image-box text-right p-r mb-50 wow fadeInRight">
-                            <img src="../assets/images/about/4.jpg" class="about-img_one" alt="">
+                            <img src="../assets/images/about/downstream1.jpg" class="about-img_one" alt="">
 <!--                            <img src="assets/images/about/5.jpg" class="about-img_two" alt="">-->
                         </div>
                     </div>

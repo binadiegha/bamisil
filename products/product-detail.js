@@ -16,13 +16,13 @@ function ProductDetail(){
     console.log( product)
 
     console.log(Object.hasOwnProperty(product))
-    if(!products.hasOwnProperty(product)) return;
+    if(!products.hasOwnProperty(product)) return location.href = 'index.html';
     const data = products[product];
 
     console.log({len: products.length, keys:myKeys });
 
   $('body').append(`
-           <!--====== Start project Details ======-->
+           <!-- ====== Start project Details ====== -->
         <section class="project-details-page pt-80 pb-80 wow fadeInUp">
             <div class="container">
                 <div class="row">
@@ -41,22 +41,22 @@ function ProductDetail(){
                                             <div class="row">
                                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                                     <div class="project-info-box mb-45">
-                                                        <h4 class="mb-10">Category</h4>
-                                                        <p>Organic Foods
-                                                            Vegetables</p>
+                                                        <h4 class="mb-10">5000+</h4>
+                                                        <p>
+                                                            Tonns produces</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                                     <div class="project-info-box mb-45">
-                                                        <h4 class="mb-10">Clients</h4>
-                                                        <p>Microsoft LTS
-                                                            Washington</p>
+                                                        <h4 class="mb-10">100%</h4>
+                                                        <p>
+                                                            Quality</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                                     <div class="project-info-box mb-45">
-                                                        <h4 class="mb-10">Date</h4>
-                                                        <p>25 February 2022</p>
+                                                        <h4 class="mb-10">Zero Impurities</h4>
+                                                        <p>Assured</p>
                                                     </div>
                                                 </div>
                                             </div>
