@@ -1,7 +1,7 @@
 function ContactContact(){
     $('body').append(`
             <!--====== Start Contact Information section ======-->
-        <section class="contact-information-one p-r z-1 pt-215 pb-130">
+        <section class="contact-information-one p-r z-1 pt-200  pb-80 mt-small-reset">
             <div class="information-img_one wow fadeInRight"><img src="../assets/images/contact/careers.jpg" alt="Imaged"></div>
             <div class="container">
                 <div class="row">

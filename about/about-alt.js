@@ -1,6 +1,6 @@
 function AboutAlt(){
     $('body').append(`<!--====== Start About Section ======-->
-        <section class="about-section p-r z-1 pt-170 pb-80">
+        <section class="about-section p-r z-1 pt-80 pb-0">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">

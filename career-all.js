@@ -1,7 +1,7 @@
 function CareerAll(){
     $('body').append(`
          <!--====== Start About section ======-->
-        <section class="about-section overflow-hidden pt-130 pb-80 p-r z-1">
+        <section class="about-section overflow-hidden pt-80 pb-80 p-r z-1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
