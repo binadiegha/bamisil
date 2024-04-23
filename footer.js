@@ -61,10 +61,10 @@ function Footer(){
                                     <div class="social-box">
                                         <h4 class="mb-15">Follow On</h4>
                                         <ul class="social-link">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                                            <li><a href="https://www.youtube.com/@A-BAMISLFARMS"><i class="fab fa-youtube"></i></a></li>
+<!--                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>-->
+<!--                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>-->
+                                            <li><a href="https://www.linkedin.com/company/a-bamisil-farms/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                                            <li><a href="https://www.youtube.com/@A-BAMISLFARMS" target="_blank"><i class="fab fa-youtube"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

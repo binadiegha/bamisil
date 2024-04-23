@@ -22,10 +22,10 @@ $('body').prepend(`
                     <div class="top-bar-right">
                         <span class="text"><i class="far fa-clock"></i>Opening Hours : Mon - Sun, 08:00 am - 05:00pm</span>
                         <ul class="social-link">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                            <li><a href="https://www.youtube.com/@A-BAMISLFARMS"><i class="fab fa-youtube"></i></a></li>
+<!--                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>-->
+<!--                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>-->
+                            <li><a href="https://www.linkedin.com/company/a-bamisil-farms/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="https://www.youtube.com/@A-BAMISLFARMS" target="_blank"><i class="fab fa-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
