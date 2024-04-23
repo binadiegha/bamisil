@@ -19,7 +19,7 @@ function ContactContact(){
                                         </div>
                                         <div class="info">
                                             <h5 class="b-lagos">Location</h5>
-                                            <p class="b-corporate">505 Main Street, 2nd 
+                                            <p class="b-coporate">505 Main Street, 2nd 
                                                 Block, New York</p>
                                         </div>
                                     </div>

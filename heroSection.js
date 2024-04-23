@@ -40,6 +40,24 @@ function HeroSection(){
                 </div>
             </div>
         </div>
+        
+           <div class="single-slider">
+            <div class="image-layer bg_cover" style="background-image: url(assets/images/hero/downstream.jpg);  height: 800px;"></div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="hero-content text-center">
+
+                            <h1 data-animation="fadeInUp" data-delay=".5s">Our Downstream </h1>
+                            <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
+                                <a href="about.html" class="main-btn btn-yellow">Learn more</a>
+                                <a href="products/" class="main-btn bordered-btn bordered-white">Products</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
         <div class="single-slider">
@@ -49,7 +67,7 @@ function HeroSection(){
                     <div class="col-lg-10">
                         <div class="hero-content text-center">
 
-                            <h1 data-animation="fadeInUp" data-delay=".5s">Our Downstream </h1>
+                            <h1 data-animation="fadeInUp" data-delay=".5s">Our Future </h1>
                             <div class="hero-button" data-animation="fadeInDown" data-delay=".6s">
                                 <a href="about.html" class="main-btn btn-yellow">Learn more</a>
                                 <a href="products/" class="main-btn bordered-btn bordered-white">Products</a>

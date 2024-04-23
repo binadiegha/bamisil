@@ -68,7 +68,9 @@ We are staunch advocates of Good Agricultural Practices (GAP) and have integrate
         </section><!--====== End About Section ======-->
  <!--====== Start Counter Section ======-->
         <section class="fun-fact-one pt-30 pb-80">
-            <div class="big-text mb-75 wow fadeInUp"><h2>A-Bamisil Farms</h2></div>
+            <div class="big-text mb-20 wow fadeInUp"><h2>A-Bamisil Farms</h2></div>
+            
+            <h2 class="m-auto text-center"> People, Passion and Prosperity</h2>
            
         </section>
 

@@ -15,7 +15,7 @@ function ServiceSection(){
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="play-one_content-box bg_cover wow fadeInDown" style="background-image: url(assets/images/bg/intro-bg-1.jpg);">
-                            <a href="https://www.youtube.com/" class="video-popup"><i class="fas fa-play"></i></a>
+                            <a href="https://res.cloudinary.com/dz4wq80nz/video/upload/v1713901879/bamisil/VIDEO-2023-05-31-17-16-45_kygqmm.mp4" class="video-popup"><i class="fas fa-play"></i></a>
                         </div>
                     </div>
                 </div>

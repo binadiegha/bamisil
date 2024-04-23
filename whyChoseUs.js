@@ -19,7 +19,7 @@ function WhyChoseUs(){
                                 <div class="single-chart-item text-center mb-40 wow fadeInUp">
                                     <div class="chart-circle">
                                         <div class="circle" data-donutty data-thickness='5' data-padding='0'  data-value='75' data-bg="rgba(255, 255, 255, 0.149)" data-round=false data-color="var(--secondary-color"></div>
-                                        <h2 class="number">250<span class="sign">+</span></h2>
+                                        <h2 class="number">200<span class="sign">+</span></h2>
                                     </div>
                                     <div class="text">
                                         <h5>Jobs Created Locally</h5>
@@ -30,7 +30,7 @@ function WhyChoseUs(){
                                 <div class="single-chart-item text-center mb-40 wow fadeInDown">
                                     <div class="chart-circle">
                                         <div class="circle" data-donutty data-thickness='5' data-padding='0'  data-value='86' data-bg="rgba(255, 255, 255, 0.149)" data-round=false data-color="var(--secondary-color"></div>
-                                        <h2 class="number">10<span class="sign">+</span></h2>
+                                        <h2 class="number">5<span class="sign">+</span></h2>
                                     </div>
                                     <div class="text">
                                         <h5>Community Projects Completed</h5>

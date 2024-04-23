@@ -61,8 +61,8 @@ function PopularServiceSection(){
                                 <img src="assets/images/icon/kernel.png" alt="Icon"  style="transform: rotate(80deg)">
                             </div>
                             <div class="text">
-                                <h3><a href="service-details.html">Milk and Meats</a></h3>
-                                <p>Natus error sit volupt ateme accus antium dolores</p>
+                                <h3><a href="service-details.html">Animal Feed</a></h3>
+                                <p>We are dedicated to support the production of quality animal feed</p>
                             </div>
                         </div>
                         <div class="single-service-item mb-50 card-rtl wow fadeInDown">

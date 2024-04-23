@@ -23,7 +23,7 @@ function ResolveSiteData() {
     const ekiti = document.querySelectorAll('.b-ekiti');
     const office = document.querySelectorAll('.b-office');
     const corporate = document.querySelectorAll('.b-coporate');
-    ValueResolver(phones, "+2349038545739",)
+    ValueResolver(phones, "+2348023258666",)
     ValueResolver(emails, "info@bamisil.com",)
 
     spans.forEach( node => {

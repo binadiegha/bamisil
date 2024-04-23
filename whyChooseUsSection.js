@@ -9,7 +9,7 @@ function WhyChooseUsSection(){
                     <div class="col-lg-6">
                         <div class="choose-one_img-box p-r mb-40 wow fadeInLeft">
                             <img src="assets/images/choose/img-1.jpg" class="choose-img_one" alt="">
-                            <img src="assets/images/choose/img-2.jpg" class="choose-img_two" alt="">
+<!--                            <img src="assets/images/choose/img-2.jpg" class="choose-img_two" alt="">-->
                         </div>
                     </div>
                     <div class="col-lg-6">

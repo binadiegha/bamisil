@@ -14,7 +14,7 @@ function ExperienceSection(){
                                     <p>As part of the company’s Corporate Social Responsibility, we have constructed a 1km (one Kilometer) Road with a bridge in the community (Aso Community) where the factory is situated and 3 Nos of Borehole in Anaye & Owode community (both Emure) and Aso community in Ado</p>
                                     <div class="skill-bar">
                                         <div class="skill-title">
-                                            <h5>30,000+ Seedlings<span></span></h5>
+                                            <h5>50,000+ Seedlings<span></span></h5>
                                         </div>
                                         <div class="progress-bar wow slideInLeft" style="width: 75%"></div>
                                         <div class="progress"></div>

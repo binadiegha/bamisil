@@ -60,7 +60,7 @@ $('body').prepend(`
                                         <li><a href="../downstream-business.html">Downstream Business</a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item "><a href="">Products</a></li>  
+                                <li class="menu-item "><a href="index.html">Products</a></li>  
                               
                             <li class="menu-item"><a href="../careers.html" class="active">Careers</a></li>
                             <li class="menu-item"><a href="../contact.html" class="active">Contact</a></li>

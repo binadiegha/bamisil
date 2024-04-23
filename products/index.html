@@ -52,8 +52,9 @@
                         <div class="portfolio-filter-button text-center mb-60 wow fadeInDown">
                             <ul class="filter-btn">
                                 <li class="active" data-filter="*">Show All</li>
-                                <li data-filter=".cat-1">Slug</li>
-                                <li data-filter=".cat-2">Oils</li>
+                                <li data-filter=".cat-1">Sludge</li>
+                                <li data-filter=".cat-2">Cake</li>
+                                <li data-filter=".cat-3">Oils</li>
 <!--                                <li data-filter=".cat-3">Chicken</li>-->
 <!--                                <li data-filter=".cat-4">Fruits</li>-->
 <!--                                <li data-filter=".cat-5">Sea Fish</li>-->
@@ -68,7 +69,7 @@
                          products.forEach(product => {
                              const [name, data] = product;
                              $('#products-holder').append(`
-                             <div class="col-lg-4 col-md-6 col-sm-12 project-column cat-2">
+                             <div class="col-lg-4 col-md-6 col-sm-12 project-column ${data?.category}">
                                 <div class="project-item-three mb-30 wow fadeInDown">
                                     <div class="img-holder">
                                         <img src="${data?.photo}" alt="">
