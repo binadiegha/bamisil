@@ -11,7 +11,7 @@ function ExperienceSection(){
                                     <div class="section-title section-title-left mb-30">
                                         <h2>We’re No. 1 In Nigeria</h2>
                                     </div>
-                                    <p>Natus error sit voluptatem accusantium doloremque laudatium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</p>
+                                    <p>As part of the company’s Corporate Social Responsibility, we have constructed a 1km (one Kilometer) Road with a bridge in the community (Aso Community) where the factory is situated and 3 Nos of Borehole in Anaye & Owode community (both Emure) and Aso community in Ado</p>
                                     <div class="skill-bar">
                                         <div class="skill-title">
                                             <h5>30,000+ Seedlings<span></span></h5>
