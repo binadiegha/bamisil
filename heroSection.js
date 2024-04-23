@@ -5,7 +5,7 @@ function HeroSection(){
 <section class="hero-area-one">
     <div class="hero-slider-one">
         <div class="single-slider">
-            <div class="image-layer bg_cover" style="background-image: url(https://www.bamisil.com/img/town-2.jpg); height: 800px;"></div>
+            <div class="image-layer bg_cover" style="background-image: url(img/town-2.jpg); height: 800px;"></div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
@@ -24,7 +24,7 @@ function HeroSection(){
 
 
         <div class="single-slider">
-            <div class="image-layer bg_cover" style="background-image: url(https://www.bamisil.com/img/downstream.jpeg);  height: 800px;"></div>
+            <div class="image-layer bg_cover" style="background-image: url(img/downstream.jpeg);  height: 800px;"></div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
@@ -61,7 +61,7 @@ function HeroSection(){
 
 
         <div class="single-slider">
-            <div class="image-layer bg_cover" style="background-image: url(https://www.bamisil.com/img/our-future-2.jpg);  height: 800px;"></div>
+            <div class="image-layer bg_cover" style="background-image: url(img/our-future-2.jpg);  height: 800px;"></div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
@@ -80,7 +80,7 @@ function HeroSection(){
 
 
         <div class="single-slider">
-            <div class="image-layer bg_cover" style="background-image: url(https://www.bamisil.com/img/banner-background.jpg);  height: 800px;"></div>
+            <div class="image-layer bg_cover" style="background-image: url(img/banner-background.jpg);  height: 800px;"></div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">

@@ -1797,7 +1797,7 @@ button {
   height: 100%;
   background-color: #1f1e17;
   mix-blend-mode: multiply;
-  opacity: 0.75;
+  opacity: 0.45;
   z-index: -1;
 }
 .hero-area-one .single-slider.slick-current .image-layer {
