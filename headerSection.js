@@ -2,11 +2,11 @@ function HeaderSection(){
 
 $('body').prepend(`
     <!--====== Start Preloader ======-->
-<!--<div class="preloader">-->
-<!--    <div class="loader">-->
-<!--        <div class="loader-circle"></div>-->
-<!--    </div>-->
-<!--</div>-->
+<div class="preloader">
+    <div class="loader">
+        <div class="loader-circle"></div>
+    </div>
+</div>
 <!--====== End Preloader ======-->
 <!--====== Start Header Section ======-->
 <header class="header-area">
